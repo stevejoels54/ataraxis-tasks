@@ -30,6 +30,12 @@ The project includes tests for each script, located in the `tests` folder:
 
 To run the tests, you can use Jest test runner with the following command:
 
+`npx jest`
+
+`or`
+
+`npx jext tests/scriptname.test.js` to run an individual test script
+
 If you want to run all tests at once, you can use the following command:
 
 Please ensure you have the necessary dependencies installed by running `npm install` before running the tests.

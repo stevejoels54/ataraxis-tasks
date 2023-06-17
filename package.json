@@ -1,14 +1,14 @@
 {
-  "name": "ataraxis-interview",
+  "name": "ataraxis-tasks",
   "version": "1.0.0",
-  "description": "",
+  "description": "My Node.js project at Ataraxis",
   "main": "electronicPatientManagement.js",
   "scripts": {
     "test": "jest --testMatch='tests/**/*.test.js'"
   },
   "keywords": [],
-  "author": "",
-  "license": "ISC",
+  "author": "Joel Steven Ssekyewa",
+  "license": "MIT",
   "dependencies": {
     "crypto-js": "^4.1.1",
     "dotenv": "^16.3.0",
