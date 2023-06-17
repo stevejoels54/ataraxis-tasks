@@ -1,0 +1,17 @@
+{
+  "name": "ataraxis-interview",
+  "version": "1.0.0",
+  "description": "",
+  "main": "electronicPatientManagement.js",
+  "scripts": {
+    "test": "jest --testMatch='tests/**/*.test.js'"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "crypto-js": "^4.1.1",
+    "dotenv": "^16.3.0",
+    "jest": "^29.5.0"
+  }
+}
